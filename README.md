@@ -1,6 +1,6 @@
-Spencer Cheung
+👋 Spencer Cheung
 
-Senior Analyst | Mortgage Analytics | Applied AI & Data Science
+📊 Senior Analyst | 🏦 Mortgage Analytics | 🤖 Applied AI & Data Science
 
 ⸻
 
@@ -8,25 +8,25 @@ About Me
 
 I’m a Senior Analyst in Secondary Marketing with experience in mortgage pricing, capital markets analytics, process automation, and machine learning.
 
-My work focuses on transforming complex business problems into scalable analytical solutions through data science, automation, and artificial intelligence. I am particularly interested in the intersection of financial services, machine learning, large language models, retrieval-augmented generation (RAG), and agentic AI systems.
+My work focuses on transforming complex business problems into scalable analytical solutions through data science, automation, and artificial intelligence. I am particularly interested in the intersection of financial services, machine learning, large language models (LLMs), Retrieval-Augmented Generation (RAG), and agentic AI systems.
 
-I am currently pursuing a Master of Applied Data Science from the University of Michigan while building real-world projects that combine traditional analytics with modern AI workflows.
+Professionally, I work at the intersection of mortgage analytics, capital markets, and data-driven decision making. Outside of work, I enjoy building AI applications, experimenting with local LLMs, and exploring practical uses of machine learning to solve real-world business problems.
 
 ⸻
 
-Current Focus
+🚀 Current Focus
 
-* Applied AI for financial services
-* Machine Learning model development
+* Applied AI for Financial Services
+* Machine Learning Model Development
 * Retrieval-Augmented Generation (RAG)
-* Agent-based AI systems
-* Local LLM deployment and experimentation
-* Process automation and workflow optimization
-* Mortgage and capital markets analytics
+* Agent-Based AI Systems
+* Local LLM Deployment & Experimentation
+* Process Automation & Workflow Optimization
+* Mortgage & Capital Markets Analytics
 
 ⸻
 
-Technical Skills
+🛠 Technical Skills
 
 Programming
 
@@ -68,43 +68,44 @@ Development Tools
 
 ⸻
 
-Featured Projects
+📌 Featured Projects
 
-Mortgage AI Assistant
+🏠 Mortgage AI Assistant
 
 A retrieval-based mortgage knowledge assistant leveraging local LLMs, vector databases, and RAG architecture to provide policy and guideline support.
 
-MBS OCR Reader
+📸 MBS OCR Reader
 
-A computer vision and OCR solution that extracts mortgage-backed securities pricing information from market screenshots and converts the data into structured formats for analysis.
+A computer vision and OCR solution that extracts mortgage-backed securities pricing information from screenshots and converts the data into structured formats for analysis.
 
-Multi-Agent Learning Lab
+🤖 Multi-Agent Learning Lab
 
 A collection of agent-based AI workflows focused on planning, routing, tool usage, validation, and orchestration patterns.
 
-RAG Learning Series
+📚 RAG Learning Series
 
 A hands-on exploration of document ingestion, embeddings, retrieval pipelines, and local language model integration.
 
-Mortgage Pricing Model Research
+📈 Mortgage Pricing Model Research
 
 Machine learning experiments focused on mortgage pricing prediction, feature engineering, model evaluation, and explainability.
 
 ⸻
 
-Education
+🎓 Education
 
 University of Michigan
 
 Master of Applied Data Science (MADS)
 
-Southern New Hampshire University
+University of California, Riverside
 
-Bachelor of Science in Business Administration
+Bachelor of Arts, Administrative Studies
+Finance Concentration
 
 ⸻
 
-Professional Interests
+🌱 Professional Interests
 
 * Applied Artificial Intelligence
 * Data Science
@@ -117,15 +118,17 @@ Professional Interests
 
 ⸻
 
-Philosophy
+💡 Philosophy
 
-Technology delivers the greatest value when it solves real business problems. My goal is to combine domain expertise, analytical thinking, and modern AI techniques to build practical solutions that improve decision-making and operational efficiency.
+Technology delivers the greatest value when it solves real business problems.
+
+My goal is to combine domain expertise, analytical thinking, and modern AI techniques to build practical solutions that improve decision-making, increase efficiency, and create measurable business impact.
 
 ⸻
 
-Connect
+🤝 Connect
 
 Always interested in conversations around data science, machine learning, AI, mortgage analytics, and financial technology.
 
-- LinkedIn: www.linkedin.com/in/spencer-cheung-4b552aa2
-- GitHub Projects: Check out my repositories
+* LinkedIn: www.linkedin.com/in/spencer-cheung-4b552aa2
+* GitHub Projects: Explore my pinned repositories below
